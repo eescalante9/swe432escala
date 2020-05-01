@@ -9,7 +9,7 @@ import javax.servlet.http.*;
 import java.io.*;
 import java.util.*;
 import java.lang.*;
-@WebServlet(name = "libSurvey", urlPatterns = "http://mason.gmu.edu/~eescala/libSurvey.html")
+@WebServlet(name = "libSurvey", urlPatterns = "/libSurvey")
 
 public class libSurvey extends HttpServlet
 {
