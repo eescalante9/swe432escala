@@ -323,13 +323,13 @@ out.println("<table id=\"main\" border = 1 align=\"left\" style=\"visibility:hid
 		out.println("	<td> ");
 		out.println("1");
 		out.println("<input type = \"radio\" name = \"" + Data.LIGHTING.name() + "\" id=\"1\" value=\"1\" required>");
-		out.println("2");
+		out.println("||2");
 		out.println("<input type = \"radio\" name = \"" + Data.LIGHTING.name() + "\" id=\"2\" value=\"2\">");
-		out.println("3");
+		out.println("||3");
 		out.println("<input type = \"radio\" name = \"" + Data.LIGHTING.name() + "\" id=\"3\" value=\"3\">");
-	    out.println("4");
+	   	out.println("||4");
 		out.println("<input type = \"radio\" name = \"" + Data.LIGHTING.name() + "\" id=\"4\" value=\"4\">");
-		out.println("5");
+		out.println("||5");
 		out.println("<input type = \"radio\" name = \"" + Data.LIGHTING.name() + "\" id=\"5\" value=\"5\">");
 		out.println("</td></tr>");
 
@@ -337,13 +337,13 @@ out.println("<table id=\"main\" border = 1 align=\"left\" style=\"visibility:hid
 		out.println("<td> ");
 		out.println("1");
 		out.println("<input type = \"radio\" name = \""+ Data.NOISE.name() +"\" id=\"1\" value=\"1\" required>");
-		out.println("2");
+		out.println("||2");
 		out.println("<input type = \"radio\" name = \""+ Data.NOISE.name() +"\" id=\"2\" value=\"2\">");
-		out.println("3");
+		out.println("||3");
 		out.println("<input type = \"radio\" name = \""+ Data.NOISE.name() +"\" id=\"3\" value=\"3\">");
-		out.println("4");
+		out.println("||4");
 		out.println("<input type = \"radio\" name = \""+ Data.NOISE.name() +"\" id=\"4\" value=\"4\">");
-		out.println("5");
+		out.println("||5");
 		out.println("<input type = \"radio\" name = \""+ Data.NOISE.name() +"\" id=\"5\" value=\"5\">");
 		out.println("</td></tr>");
 
@@ -351,13 +351,13 @@ out.println("<table id=\"main\" border = 1 align=\"left\" style=\"visibility:hid
 		out.println("<td> ");
 		out.println("1");
 		out.println("<input type = \"radio\" name = \""+ Data.BOOK.name() +"\" id=\"1\" value=\"1\" required>");
-		out.println("2");
+		out.println("||2");
 		out.println("<input type = \"radio\" name = \""+ Data.BOOK.name() +"\" id=\"2\" value=\"2\">");
-		out.println("3");
+		out.println("||3");
 		out.println("<input type = \"radio\" name = \""+ Data.BOOK.name() +"\" id=\"3\" value=\"3\">");
-		out.println("4");
+		out.println("||4");
 		out.println("<input type = \"radio\" name = \""+ Data.BOOK.name() +"\" id=\"4\" value=\"4\">");
-		out.println("5");
+		out.println("||5");
 		out.println("<input type = \"radio\" name = \""+ Data.BOOK.name() +"\" id=\"5\" value=\"5\">");
 		out.println("</td></tr>");
 
@@ -365,13 +365,13 @@ out.println("<table id=\"main\" border = 1 align=\"left\" style=\"visibility:hid
 		out.println("<td> ");
 		out.println("1");
 		out.println("<input type = \"radio\" name = \""+ Data.AMENITIES.name() +"\" id=\"1\" value=\"1\" required>");
-		out.println("2");
+		out.println("||2");
 		out.println("<input type = \"radio\" name = \""+ Data.AMENITIES.name() +"\" id=\"2\" value=\"2\">");
-		out.println("3");
+		out.println("||3");
 		out.println("<input type = \"radio\" name = \""+ Data.AMENITIES.name() +"\" id=\"3\" value=\"3\">");
-		out.println("4");
+		out.println("||4");
 		out.println("<input type = \"radio\" name = \""+ Data.AMENITIES.name() +"\" id=\"4\" value=\"4\">");
-		out.println("5");
+		out.println("||5");
 		out.println("<input type = \"radio\" name = \""+ Data.AMENITIES.name() +"\" id=\"5\" value=\"5\">");
 		out.println("</td></tr>");
 
