@@ -232,7 +232,7 @@ public class assigment8 extends HttpServlet
 
 	  public String getAllAsHTMLTable(List<Entry> entries){
 	    StringBuilder htmlOut = new StringBuilder("<table>");
-	    htmlOut.append("<tr><th>Library</th><th>Overall Lighting||||</th><th>Noise Level    </th><th>Book Selection</th><th>Amenities</th></tr>");
+	    htmlOut.append("<tr><th>Library</th><th>Overall Lighting  ||||</th><th>Noise Level  ||||</th><th>Book Selection  ||||</th><th>Amenities</th></tr>");
 	    if(entries == null || entries.size() == 0){
 	      htmlOut.append("<tr><td>No entries yet.</td></tr>");
 	    }else{
